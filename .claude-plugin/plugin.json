@@ -1,0 +1,7 @@
+{
+  "name": "agent-avatar",
+  "author": { "name": "Ricardo Rodrigues" },
+  "version": "0.1.0",
+  "description": "Avatar animado num painel que reage a cada mensagem e ferramenta do Claude",
+  "types": "./types/index.d.ts"
+}
