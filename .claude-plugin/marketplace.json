@@ -1,0 +1,12 @@
+{
+    "name": "ricardo-mods",
+    "owner": {
+        "name": "Ricardo Rodrigues"
+    },
+    "plugins": [
+        {
+            "name": "agent-avatar",
+            "source": "./"
+        }
+    ]
+}
